@@ -1,0 +1,39 @@
+MER- Modelo Entidade Relacionamento. (Modelo pode ser desenhado ou escrito-->(cobrar, documentar))
+DER - Diagrama de Entidade Relacionamento. (Modelo desenhado)
+
+Entidade fraca - É qunado ela precisa de outra
+Entidade forte - A raiz
+
+A eclipse pontilhada é o resultado de algum cálculo.
+Duas eclipses significa que é multivalores. Varios valores.
+
+Como transformar 1-N:
+	Colocar uma tabela no meio...
+
+PK-Prime key 
+FK-Foreign key
+
+antes:
+dar start no appache e no mysql
+ctrl + '' (vscode)
+terminal:
+entrar no cmd
+cd \
+cd:
+cd xampp
+cd mysql
+cd bin
+cd mysql -u root
+
+O diagrama conceitual é mais próximo da solução do problema e do usuário.
+E o lógico está mais próximo do desenvolvimento.
+
+O tamanho do banco de dados varia de acordo com seu hd.
+
+Site case (1 faz o desenho logico a partir do conceitual)
+
+timestamp - Momento atual. Data e hora.
+Date - apenas as datas.
+
+
+
