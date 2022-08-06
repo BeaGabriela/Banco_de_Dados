@@ -1,0 +1,22 @@
+Banco de dados:
+
+	Registros
+	Tabelas
+	Arquivos
+	
+	Arquivo sequências -- Guardado em sequências.
+	Arquivo acesso direto -  Guardados e acessados de maneira direta.
+	
+	Banco de dados:
+		Bases de dados
+		Sistema Gerenciador
+		Linguagem de exploração.
+		Programas adicionais.
+		
+	IBM - Criou o PC.
+		Modelo hierárquico --|
+							  >	Permitiam aguardar os dados. Mas não facilitavam o relacionamento com o cliente.
+		Modelo em rede --|
+		Modelo relacional - Que permite o relacionamento.
+
+		
