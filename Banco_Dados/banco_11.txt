@@ -1,0 +1,44 @@
+Normalização: é um processo a partir do quel se aplicam regras a todas as tabelas do banco de dados como objetivp de evitar falhas no projeto.
+
+Tipo de dados (Arquivos): 
+	Não estruturado (Não possui uma estrutura definida. Não possui uma norma especifica) -- .PDF(Arquivos impressos) e .html(Linguagem de marcação)
+	Semi estruturado(Possui normas flexiveis) -- .xml(Tipos de dados para trânsferência importação/exportação) e .json(Tipos de dados para trânsferência importação/exportação)
+	Estruturado (SGBD)(Possui normas rigidas) - .csv(Tipos de dados para trânsferência importação/exportação) e .sql(Linguagem)
+
+	Relacionais 
+	Não Relacionais
+
+	SQL{
+		DDL - Desenvolvimento (Create, Alter, Drop, Show)
+		DML - Manipulação (Insert, Update, Delete, Select)
+		DQL - Pequisa/Query (Select)
+		DCL - Controle de acesso(Garnt?)
+		DTL - Transação 
+	}	
+
+	
+	SGBD - Sistema gerenciador de dados.{
+		MOngoDB - Estruturado, NoSQL, Relacional
+		MariaDB - Estruturado, SQL, Relacional
+		Oracle - Estruturado, SQL, Relacional
+		SQL - Server- Estruturado, SQL, Relacional
+		Firebase - Estruturado, SQL e nao relacioaal
+	}
+
+		CUSTORM -- Cliente - Formal. Tem cadastro.
+		Client-- Frequês - Não tem conta. Não tem cadastro.
+
+
+ZIP code - CEP
+
+Quando o atributo é multi valorado ele vira uma tabela.
+
+Trabalhar com dados:{ (LGPD)
+	Engenheiro de dados (NÃO CRIA, SÓ TRABALHA COM O QUE EXISTE)
+	Cientista de dados (Cria LGPT)
+	Analista de dados 
+	Administrador de BCD (DBA)
+
+	}
+
+  
