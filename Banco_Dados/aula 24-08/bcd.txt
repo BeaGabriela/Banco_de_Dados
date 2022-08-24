@@ -1,0 +1,19 @@
+#DQL - linguagem query - buscas (select)
+
+curdate() - Pega dia hoje.
+curtime() - Pega o horario.
+datediff() - Calcula a diferenca?
+date_add() - Adiciona dias.
+date_sub() - Subtrai dias.
+count(	') - Vai contar a qtd da tabela selecionada.
+sum(') - soma todos os valores da coluna.
+avg(' ') - media 
+max() e min () - pega o valor max e o valo min.
+order by() - ordena por data crescente.
+order by desc - Ordena por data decrescente.
+group by - Agrupar por uma coisa semelhante.
+where - onde
+where <> -- Onde é diferente.
+where = -- Onde é igual.
+
+view - consulta salva.
