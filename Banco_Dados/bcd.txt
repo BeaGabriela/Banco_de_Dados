@@ -35,5 +35,13 @@ Site case (1 faz o desenho logico a partir do conceitual)
 timestamp - Momento atual. Data e hora.
 Date - apenas as datas.
 
+Inner join - Junta as informações.
+Normalização - Separa as informações.
+
+
+--JOIN = INNER, LEFT, RIGHT, 
+
+Join vau juntas as tabelas. Pode se juntar mais que duas tabelas.
+
 
 
